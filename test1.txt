@@ -1,2 +1,3 @@
 hiiiiiiiii 
 today is a friday
+today is not a friday
